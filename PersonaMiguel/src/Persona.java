@@ -61,7 +61,7 @@ public class Persona {
 	public String getTelefono() {
 		return telefono;
 	}
-	
+	 
 	/**
 	 * 
 	 * @param telefono .Usa el parámetro teléfono.
