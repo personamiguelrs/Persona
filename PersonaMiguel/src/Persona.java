@@ -1,9 +1,9 @@
 /**
  * 
- * @author Jose
+ * @author Miguel
  * @version 24/05/19
- * 
- * Esta es la clase <h5>Persona</h5> que nos dará un nombre, teléfono y dni.
+ * Javadoc hecho por Jose
+ * Esta es la clase Persona que nos dará un nombre, teléfono y dni.
  */
 public class Persona {
 	String nombre;
@@ -22,7 +22,7 @@ public class Persona {
 		this.dni = dni;
 		this.telefono = telefono;
 	}
-	
+	 
 	/**
 	 * 
 	 * @return .Devuelve un String con el nombre.
